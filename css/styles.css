@@ -1,0 +1,31 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  margin-top: 5vw;
+}
+
+.content {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.imgBox {
+  padding: 20px 10px 20px 10px;
+}
+
+.qr-title {
+  font-family: Outfit;
+  font-weight: 700;
+  font-size: 25px;
+  color: hsl(218, 44%, 22%)
+}
+
+.qr-text {
+  font-family: Outfit;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  padding: 10px 40px;
+  font-size: 15px;
+}
